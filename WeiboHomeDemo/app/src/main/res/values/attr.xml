@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="li_GButton">
+        <attr name="li_clickInterval" format="integer" />
+    </declare-styleable>
+
+
+    <declare-styleable name="li_GEditText">
+        <attr name="li_drawableRightPressed" format="reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="li_RefreshView">
+        <attr name="type" format="enum">
+            <enum name="sun" value="0" />
+        </attr>
+    </declare-styleable>
+
+    <attr name="vpiTabPageIndicatorStyle" format="reference"/>
+    <declare-styleable name="CircleTextProgressbar">
+        <attr name="in_circle_color" format="color" />
+    </declare-styleable>
+</resources>

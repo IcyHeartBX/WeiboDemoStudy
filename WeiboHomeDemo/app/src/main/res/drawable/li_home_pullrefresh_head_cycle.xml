@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                android:oneshot="false" >
+    <item android:drawable="@drawable/li_refresh_051" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_052" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_053" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_054" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_055" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_056" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_057" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_058" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_059" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_060" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_061" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_062" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_063" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_064" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_065" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_066" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_067" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_068" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_069" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_070" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_071" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_072" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_073" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_074" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_075" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_076" android:duration="30"/>
+    <item android:drawable="@drawable/li_refresh_077" android:duration="30"/>
+</animation-list>

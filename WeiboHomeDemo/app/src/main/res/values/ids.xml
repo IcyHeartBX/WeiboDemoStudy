@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_hot_recylerview" type="id"/>
+    <item name="home_attention_recylerview" type="id"/>
+    <item name="home_latest_recylerview" type="id"/>
+    <item name="rich_list_recylerview" type="id"/>
+</resources>

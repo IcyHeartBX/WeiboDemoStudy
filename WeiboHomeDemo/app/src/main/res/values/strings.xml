@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeiboHomeDemo</string>
+
+    <string name="li_home_pull_label">上拉加载更多 </string>
+    <string name="li_home_refreshing_label">正在加载...</string>
+    <string name="li_home_release_label">松开立即加载</string>
+    <string name="li_home_nomore">已加载全部</string>
+</resources>

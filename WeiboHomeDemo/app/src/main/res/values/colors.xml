@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!-- 应用主色 -->
+    <color name="li_color_main_bg">#FFF</color>
+    <!--  应用所有ITEM主色 -->
+    <color name="li_color_main_item_bg">#33ededed</color>
+    <!-- 应用中红色字颜色-->
+    <color name="app_red">#FFE5006E</color>
+    <color name="li_color_red_text_color">@color/app_red</color>
+
+    <!-- 文字主色 -->
+    <color name="li_text_color_main">#333333</color>
+    <!-- 文字次要色 第一级-->
+    <color name="li_text_color_not_main_1">#7f7f7f</color>
+    <!-- 文字次要色 第二级-->
+    <color name="li_text_color_not_main_2">#b2b2b2</color>
+    <!-- 文字次要色 第三级-->
+    <color name="li_text_color_not_main_3">#c5c5c5</color>
+    <!-- 分割线颜色 -->
+    <color name="li_color_divider_line">#e5e5e5</color>
+    <!-- 页面背景色 -->
+    <color name="li_color_background">#f2f2f2</color>
+    <!-- 点缀色 -->
+    <color name="li_color_embellish">#eea328</color>
+</resources>

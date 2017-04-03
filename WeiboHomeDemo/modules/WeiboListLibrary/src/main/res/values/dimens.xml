@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- standard metrics -->
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <dimen name="tab_margin_left">8dip</dimen>
+
+    <!--timeline-->
+    <dimen name="item_padding">10dip</dimen>
+    <dimen name="item_margin">5dip</dimen>
+    <dimen name="gap_pics">4sp</dimen>
+
+    <dimen name="comm_footer_height">58dip</dimen>
+    <dimen name="comm_h_gap">10dip</dimen>
+    <dimen name="comm_h_margin">16dip</dimen>
+    <dimen name="comm_v_gap">10dip</dimen>
+    <dimen name="comm_v_margin">16dip</dimen>
+
+
+</resources>
